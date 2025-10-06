@@ -151,7 +151,9 @@ int main() {
 ## OUTPUT
 
 
+<img width="755" height="449" alt="002" src="https://github.com/user-attachments/assets/cd75495c-e66f-45c0-9bfa-236dda2bc9a2" />
 
+<img width="749" height="559" alt="image" src="https://github.com/user-attachments/assets/2df02d8b-eaa9-4cee-8012-d01fe58d0541" />
 
 ![alt text](04.png)
 
